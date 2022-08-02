@@ -1,8 +1,8 @@
 ### Phelipe com Ph
 <br/>
 <div style="display: inline_block">
-  <img height="180em" align="left" alt="phelipecomph's Github Stats" src=https://github-readme-stats.vercel.app/api?username=phelipecomph&show_icons=true&theme=dracula>
-  <img height="180em" alt="phelipecomph's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipecomph&layout=compact&theme=dracula"/>
+  <img height="180em" align="center" alt="phelipecomph's Github Stats" src=https://github-readme-stats.vercel.app/api?username=phelipecomph&show_icons=true&theme=dracula>
+  <img height="180em" align="center" alt="phelipecomph's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipecomph&layout=compact&theme=dracula"/>
 </div>
 
 <!--
