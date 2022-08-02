@@ -1,4 +1,9 @@
-### Hi there 👋
+### Phelipe com Ph
+<br/>
+<div style="display: inline_block">
+  <img height="180em" align="left" alt="phelipecomph's Github Stats" src=https://github-readme-stats.vercel.app/api?username=phelipecomph&show_icons=true&theme=dracula>
+  <img height="180em" alt="phelipecomph's Github languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipecomph&layout=compact&theme=dracula"/>
+</div>
 
 <!--
 **phelipecomph/phelipecomph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
